@@ -1,4 +1,4 @@
-# Lap 1
+# Lab 1
 # Link Your Program With Oracle Database
 ### `Import Oracle Libraries`
 ```cs
